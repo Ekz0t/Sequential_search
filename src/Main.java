@@ -2,7 +2,7 @@ import java.io.*;
 import java.util.Scanner;
 
 class Main {
-    private static final String File_Path = "C:\\Users\\Саша\\IdeaProjects\\Poisk\\Посл поиск.txt";
+    private static final String File_Path = "C:\\Users\\Андрей\\IdeaProjects\\Sequential search\\Посл поиск.txt";
 
     public static void main(String[] args) {
         File file = new File(File_Path);
